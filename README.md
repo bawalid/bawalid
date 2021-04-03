@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: building my own Portfolio
 - 📸 Fun fact: I love taking photos and film making 🎬
 
-##** Update 2021:
+## Update 2021:
 - I've mastered forntEnd Web development ✅
 - I started learning iOS Development, and finished the beginner level 🎯
 - Still not finish building a Portfolio 😔
