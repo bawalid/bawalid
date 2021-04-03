@@ -6,6 +6,12 @@
 - 🥅 2020 Goals: building my own Portfolio
 - 📸 Fun fact: I love taking photos and film making 🎬
 
+##** Update 2021:
+- I've mastered forntEnd Web development ✅
+- I started learning iOS Development, and finished the beginner level 🎯
+- Still not finish building a Portfolio 😔
+- Career goal changed: I want to be an iOS developer 👨🏻‍💻
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
