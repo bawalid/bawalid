@@ -10,7 +10,6 @@
 - I've mastered forntEnd Web development ✅
 - I started learning iOS Development, and finished the beginner level 🎯
 - Still not finish building a Portfolio 😔
-- Career goal changed: I want to be an iOS developer 👨🏻‍💻
 
 ### Connect with me:
 
