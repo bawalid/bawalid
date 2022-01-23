@@ -1,15 +1,15 @@
 ### Hi there, my name is Walid Ben Abdessalem 👋
 
 ## I'm a Husband, Father, Graphic designer, and Teacher!
-- 💻 I’m currently learning Web development!
+- 💻 I'v completed learning and practacing front-end Web development (HTML/CSS/JS)!  
 - 🎯 I’m looking to change my career to be a Web developer
-- 🥅 2020 Goals: building my own Portfolio
+- 📱 I Learned iOS Development, and finished the beginner level. I learned creating apps using Swift language and the new SwiftUI
 - 📸 Fun fact: I love taking photos and film making 🎬
 
-## Update 2021:
-- I've mastered forntEnd Web development ✅
-- I started learning iOS Development, and finished the beginner level 🎯
-- Still not finish building a Portfolio 😔
+## 2022 Goals 🥅:
+- Mastering React.js framework and MERN workflow
+- Building 4 projects for my portfolio
+- Finishing and launching my own Portfolio
 
 ### Connect with me:
 
