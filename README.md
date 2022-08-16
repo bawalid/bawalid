@@ -7,9 +7,9 @@
 - 📸 Fun fact: I love taking photos and film making 🎬
 
 ## 2022 Goals 🥅:
-- Mastering React.js framework and MERN workflow
-- Building 4 projects for my portfolio
-- Finishing and launching my own Portfolio
+- Mastering React.js framework and MERN workflow - ✅
+- Building 4 projects for my portfolio - ✅
+- Finishing and launching my own Portfolio - ✅
 
 ### Connect with me:
 
