@@ -1,28 +1,26 @@
-### Hi there, my name is Walid Ben Abdessalem 👋
+# Hi, I'm Walid Ben Abdessalem 👋
 
-### Connect with me:
+### Computer Science / ICT Educator | Web Developer
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
+I'm a Computer Science and ICT educator with a strong interest in web development and practical applications of technology.
 
-### Languages and Tools:
+Alongside my teaching career, I've developed my programming skills through independent learning and hands-on projects, including full-stack web applications and interactive experiences.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### 💻 Technical Skills
 
-<br />
-<br />
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, SQL, MySQL
+- **Tools:** Git, GitHub, Visual Studio Code
+- **Additional:** Three.js, React Three Fiber
 
+### 🚀 Selected Projects
 
-[instagram]: https://www.instagram.com/3afsa/
-[linkedin]: https://www.linkedin.com/in/walidba/
+- **[Lux Watches](https://github.com/bawalid/lux-watches)** — A luxury watch e-commerce application built around a MERN architecture.
+- **[Geo Phone](https://github.com/bawalid/geo-phone)** — A location-related application exploring phone-number geography and device location.
+- **[3D Minesweeper](https://github.com/bawalid/3d-minesweeper)** — A 3D Minesweeper game built with React and Three.js.
+
+### 🤝 Connect with me
+
+- **LinkedIn:** [Walid Ben Abdessalem](https://www.linkedin.com/in/w-abdessalem/)
+- **GitHub:** [@bawalid](https://github.com/bawalid)
