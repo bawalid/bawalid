@@ -16,7 +16,7 @@ Alongside my teaching career, I've developed my programming skills through indep
 
 ### 🚀 Selected Projects
 
-- **[Lux Watches](https://github.com/bawalid/lux-watches)** — A luxury watch e-commerce application built around a MERN architecture.
+- **[Lux Watches](https://github.com/bawalid/lux-watches)** — A full-stack watch storefront built with React, Express and MongoDB, featuring a product catalogue, product details, REST API, persistent shopping cart and checkout interface.
 - **[Geo Phone](https://github.com/bawalid/geo-phone)** — A React application that looks up phone-number information and displays the returned geographic coordinates on an interactive map.
 - **[3D Minesweeper](https://github.com/bawalid/3d-minesweeper)** — A 3D Minesweeper game built with React and Three.js.
 
